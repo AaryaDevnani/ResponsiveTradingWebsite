@@ -1,0 +1,89 @@
+.top-row {
+  margin: 20px auto;
+}
+.row-item {
+  text-align: center;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.symbol,
+.price {
+  font-size: 2rem;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  padding-left: 0.6rem;
+  padding-bottom: 0.3rem;
+}
+.full-name,
+.change {
+  font-size: 1.20rem;
+  padding-bottom: 0.25rem;
+}
+
+.market,
+.time {
+  font-size: 0.9rem;
+  padding-bottom: 0.25rem;
+}
+.btn {
+  margin: 0.25rem;
+}
+.buy-sell {
+  display: flex;
+  justify-content: center;
+}
+.icon button{
+  all:unset;
+}
+.icon button:hover{
+  cursor: pointer;
+}
+.ur{
+  border-bottom: lightgrey solid;
+  padding: 20px;
+  margin: auto 0 !important;
+}
+
+.lr{
+  border-top: lightgrey solid;
+  padding: 10px;
+  margin: auto 0 !important;
+}
+
+.info{
+  padding: 10px;
+}
+.buy-sell-2{
+  display: flex;
+  justify-content: end;
+}
+.qty-flex{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.l-margin{
+  margin-left:10px;
+}
+.time{
+  display: flex;
+  justify-content: center;
+  /* padding-bottom: 20px; */
+  margin-bottom: 10px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

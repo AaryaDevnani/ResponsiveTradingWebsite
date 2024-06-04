@@ -1,0 +1,25 @@
+
+.heading{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.ohlc-list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.about{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading{
+    font-size: 20px;
+}
+.about-in{
+    padding-bottom:15px;
+    text-align: center;
+}
