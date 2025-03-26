@@ -17,7 +17,6 @@ WORKDIR /App/Frontend
 RUN npm install
 RUN npm run build
 
-RUN cp -r /App/Frontend/build /App/Server/public
 
 WORKDIR /App/Server
 EXPOSE 5000
