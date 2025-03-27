@@ -3,7 +3,7 @@ const StockContext = createContext();
 
 export function StockProvider({ children }) {
 
-  let dev = true;
+  let dev = false;
   let url = "";
   if (dev) {
     url = "http://127.0.0.1:8080";
