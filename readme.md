@@ -1,5 +1,5 @@
-# [Stock Website](https://csci522-assignment3.wl.r.appspot.com/)
-Demo Link: https://csci522-assignment3.wl.r.appspot.com/
+# [Stock Website](https://responsivetradingwebsite-862380211990.us-central1.run.app/)
+Demo Link: https://responsivetradingwebsite-862380211990.us-central1.run.app/
 
 * A fully responsive web app for searching and trading stocks in a sandboxed environment.
 *  Users can trade based on market hours, favorite stocks, and view detailed graphs created using Highcharts.
